@@ -1,82 +1,33 @@
-# Hi, I'm Pradeepa 👋
+# Hi, I'm Pradeepa 👋 (M.Sc. AI & Data Science)
 
-## About Me
+* **LinkedIn:** https://linkedin.com/in/kpradeepa
+* **Email:** pradeepaaideveloper@gmail.com
+* **Location:** India (Open to Global Relocation)
+* **Target Role:** Aspiring Data Analyst
 
-🎓 M.Sc. in Artificial Intelligence & Data Science
+---
 
-📊 Aspiring Data Analyst passionate about transforming data into meaningful insights and business decisions.
+## 🎓 Professional Summary
+M.Sc. graduate in AI & Data Science focused on data cleaning, relational databases, and visual analytics to drive business insights.
 
-💡 I have knowledge of:
+---
 
-* Python
-* SQL
-* Power BI
-* Excel
-* Data Visualization
-* Machine Learning Fundamentals
-* Internet of Things (IoT)
-* Data Cleaning & Analysis
+## 🛠 Technical Expertise
 
-## Technical Skills
+* **Core:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), Excel
+* **BI:** Power BI, Dashboarding, Data Visualization, KPIs
+* **AI/IoT:** Scikit-Learn, Machine Learning, IoT Data
 
-### Programming & Analytics
+---
 
-* Python
-* SQL
-* Excel
-* Power BI
+## 🚀 Featured Projects
 
-### Data Analytics
+* **AI Career Guidance Predictor:** ML pipeline for student placement forecasting.
+* **Hospital Analytics Dashboard:** Power BI and SQL for clinical performance.
+* **Sales Analytics Dashboard:** DAX modeling for revenue and customer segmentation.
 
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-* Business Insights
-* KPI Analysis
+---
 
-### Machine Learning
-
-* Supervised Learning
-* Unsupervised Learning
-* Classification
-* Regression
-* Model Evaluation Basics
-
-### IoT
-
-* IoT Fundamentals
-* Sensors and Devices
-* Data Collection & Monitoring
-
-## Featured Projects
-
-### 🏥 Hospital Analytics Dashboard
-
-Analyzed patient admissions, diagnoses, and hospital performance using Power BI and SQL.
-
-### 📈 Sales Analytics Dashboard
-
-Built interactive dashboards to track revenue, sales performance, and business KPIs.
-
-### 🗄️ SQL Data Analysis Project
-
-Performed data extraction, cleaning, and business analysis using SQL queries.
-
-## Currently Learning
-
-* Advanced SQL
-* Business Intelligence
-* Data Analytics
-* Real-World Dashboard Development
-
-## Career Goal
-
-To start my career as a Data Analyst, gain hands-on industry experience, and grow into a data-driven decision-making professional.
-
-## Connect With Me
-
-📧 Email: [pradeepaaideveloper@gmail.com](mailto:pradeepaaideveloper@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/kpradeepa
-
-⭐ Thanks for visiting my GitHub profile!
+## 📈 Goals
+- **Focus:** Advanced SQL, Cloud Warehousing, and Performance Optimization.
+- **Goal:** Launch a career as a Data Analyst.
